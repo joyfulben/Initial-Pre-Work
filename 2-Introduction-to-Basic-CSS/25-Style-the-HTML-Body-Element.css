@@ -1,0 +1,7 @@
+/*Here I am learning about how to add style to inherit elements of a page that are not headers, paragraphs, footers and the like.*/
+
+<style>
+body {
+  background-color: black;
+}
+</style>
